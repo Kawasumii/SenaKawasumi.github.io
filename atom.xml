@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>金马野鸟风</title>
+  <icon>http://yoursite.com/icon.png</icon>
+  <subtitle>Waiting warm</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://yoursite.com/"/>
+  <updated>2020-03-16T06:16:19.962Z</updated>
+  <id>http://yoursite.com/</id>
+  
+  <author>
+    <name>一期一会</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="http://yoursite.com/2020/03/16/hello-world/"/>
+    <id>http://yoursite.com/2020/03/16/hello-world/</id>
+    <published>2020-03-16T06:16:19.962Z</published>
+    <updated>2020-03-16T06:16:19.962Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;html&gt;&lt;head&gt;&lt;/head&gt;&lt;body&gt;&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Che
+      
+    
+    </summary>
+    
+    
+    
+  </entry>
+  
+</feed>
