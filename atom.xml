@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://iwarm.space/"/>
-  <updated>2020-03-17T08:23:17.874Z</updated>
+  <updated>2020-03-17T09:33:38.572Z</updated>
   <id>http://iwarm.space/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="http://iwarm.space/SumiXueletter.html"/>
     <id>http://iwarm.space/SumiXueletter.html</id>
     <published>2020-03-17T01:18:00.000Z</published>
-    <updated>2020-03-17T08:23:17.874Z</updated>
+    <updated>2020-03-17T09:33:38.572Z</updated>
     
     <summary type="html">
     
@@ -32,6 +32,8 @@
     
     </summary>
     
+    
+      <category term="Letter" scheme="http://iwarm.space/categories/Letter/"/>
     
     
       <category term="Forwarm" scheme="http://iwarm.space/tags/Forwarm/"/>
@@ -43,7 +45,7 @@
     <link href="http://iwarm.space/Snowmanletter.html"/>
     <id>http://iwarm.space/Snowmanletter.html</id>
     <published>2020-03-16T12:49:09.000Z</published>
-    <updated>2020-03-17T03:21:35.163Z</updated>
+    <updated>2020-03-17T08:55:08.540Z</updated>
     
     <summary type="html">
     
@@ -55,6 +57,8 @@
     </summary>
     
     
+      <category term="Letter" scheme="http://iwarm.space/categories/Letter/"/>
+    
     
       <category term="Forwarm" scheme="http://iwarm.space/tags/Forwarm/"/>
     
@@ -65,7 +69,7 @@
     <link href="http://iwarm.space/muwanwanletternext.html"/>
     <id>http://iwarm.space/muwanwanletternext.html</id>
     <published>2020-03-16T12:42:51.000Z</published>
-    <updated>2020-03-17T03:21:25.934Z</updated>
+    <updated>2020-03-17T08:54:52.627Z</updated>
     
     <summary type="html">
     
@@ -79,6 +83,8 @@
     </summary>
     
     
+      <category term="Letter" scheme="http://iwarm.space/categories/Letter/"/>
+    
     
       <category term="Forwarm" scheme="http://iwarm.space/tags/Forwarm/"/>
     
@@ -89,7 +95,7 @@
     <link href="http://iwarm.space/muwanwanletter.html"/>
     <id>http://iwarm.space/muwanwanletter.html</id>
     <published>2020-03-16T12:37:03.000Z</published>
-    <updated>2020-03-17T03:21:21.066Z</updated>
+    <updated>2020-03-17T08:54:48.152Z</updated>
     
     <summary type="html">
     
@@ -101,6 +107,8 @@
     </summary>
     
     
+      <category term="Letter" scheme="http://iwarm.space/categories/Letter/"/>
+    
     
       <category term="Forwarm" scheme="http://iwarm.space/tags/Forwarm/"/>
     
@@ -111,7 +119,7 @@
     <link href="http://iwarm.space/Slimeletter.html"/>
     <id>http://iwarm.space/Slimeletter.html</id>
     <published>2020-03-16T12:10:40.000Z</published>
-    <updated>2020-03-17T03:21:09.033Z</updated>
+    <updated>2020-03-17T08:54:39.023Z</updated>
     
     <summary type="html">
     
@@ -122,6 +130,8 @@
     
     </summary>
     
+    
+      <category term="Letter" scheme="http://iwarm.space/categories/Letter/"/>
     
     
       <category term="Forwarm" scheme="http://iwarm.space/tags/Forwarm/"/>
@@ -133,7 +143,7 @@
     <link href="http://iwarm.space/Minamiletter.html"/>
     <id>http://iwarm.space/Minamiletter.html</id>
     <published>2020-03-16T12:05:11.000Z</published>
-    <updated>2020-03-17T03:21:14.146Z</updated>
+    <updated>2020-03-17T08:54:43.351Z</updated>
     
     <summary type="html">
     
@@ -144,6 +154,8 @@
     
     </summary>
     
+    
+      <category term="Letter" scheme="http://iwarm.space/categories/Letter/"/>
     
     
       <category term="Forwarm" scheme="http://iwarm.space/tags/Forwarm/"/>
@@ -155,7 +167,7 @@
     <link href="http://iwarm.space/jinfengletter.html"/>
     <id>http://iwarm.space/jinfengletter.html</id>
     <published>2020-03-16T11:50:57.000Z</published>
-    <updated>2020-03-17T03:21:31.333Z</updated>
+    <updated>2020-03-17T08:55:02.522Z</updated>
     
     <summary type="html">
     
@@ -166,6 +178,8 @@
     
     </summary>
     
+    
+      <category term="Letter" scheme="http://iwarm.space/categories/Letter/"/>
     
     
       <category term="Forwarm" scheme="http://iwarm.space/tags/Forwarm/"/>
@@ -177,7 +191,7 @@
     <link href="http://iwarm.space/Mathersletter.html"/>
     <id>http://iwarm.space/Mathersletter.html</id>
     <published>2020-03-16T04:00:00.000Z</published>
-    <updated>2020-03-17T03:21:03.149Z</updated>
+    <updated>2020-03-17T09:34:03.310Z</updated>
     
     <summary type="html">
     
@@ -188,6 +202,8 @@
     
     </summary>
     
+    
+      <category term="Letter" scheme="http://iwarm.space/categories/Letter/"/>
     
     
       <category term="Forwarm" scheme="http://iwarm.space/tags/Forwarm/"/>
