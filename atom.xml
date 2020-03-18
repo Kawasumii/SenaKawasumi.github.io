@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://iwarm.space/"/>
-  <updated>2020-03-18T03:14:12.411Z</updated>
+  <updated>2020-03-18T03:17:50.256Z</updated>
   <id>http://iwarm.space/</id>
   
   <author>
@@ -20,8 +20,8 @@
     <title>白给雨的日记</title>
     <link href="http://iwarm.space/Baigeiyudiary.html"/>
     <id>http://iwarm.space/Baigeiyudiary.html</id>
-    <published>2020-03-18T03:00:11.000Z</published>
-    <updated>2020-03-18T03:14:12.411Z</updated>
+    <published>2020-03-17T13:00:11.000Z</published>
+    <updated>2020-03-18T03:17:50.256Z</updated>
     
     <summary type="html">
     
@@ -90,11 +90,11 @@
   </entry>
   
   <entry>
-    <title>雪人的信</title>
-    <link href="http://iwarm.space/Snowmanletter.html"/>
-    <id>http://iwarm.space/Snowmanletter.html</id>
+    <title>雪人的诗</title>
+    <link href="http://iwarm.space/Snowmanpoetry.html"/>
+    <id>http://iwarm.space/Snowmanpoetry.html</id>
     <published>2020-03-16T12:49:09.000Z</published>
-    <updated>2020-03-17T08:55:08.540Z</updated>
+    <updated>2020-03-18T03:17:37.542Z</updated>
     
     <summary type="html">
     
@@ -106,7 +106,7 @@
     </summary>
     
     
-      <category term="Letter" scheme="http://iwarm.space/categories/Letter/"/>
+      <category term="Poetry" scheme="http://iwarm.space/categories/Poetry/"/>
     
     
       <category term="Forwarm" scheme="http://iwarm.space/tags/Forwarm/"/>
