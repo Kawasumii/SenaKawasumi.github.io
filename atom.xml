@@ -42,11 +42,11 @@
   </entry>
   
   <entry>
-    <title>风晴的信</title>
-    <link href="http://iwarm.space/Fengqingletter.html"/>
-    <id>http://iwarm.space/Fengqingletter.html</id>
+    <title>风晴的诗</title>
+    <link href="http://iwarm.space/Fengqingpoetry.html"/>
+    <id>http://iwarm.space/Fengqingpoetry.html</id>
     <published>2020-03-17T11:07:26.000Z</published>
-    <updated>2020-03-17T11:18:01.748Z</updated>
+    <updated>2020-03-18T03:24:19.723Z</updated>
     
     <summary type="html">
     
@@ -58,7 +58,7 @@
     </summary>
     
     
-      <category term="Letter" scheme="http://iwarm.space/categories/Letter/"/>
+      <category term="Poetry" scheme="http://iwarm.space/categories/Poetry/"/>
     
     
       <category term="Forwarm" scheme="http://iwarm.space/tags/Forwarm/"/>
@@ -164,11 +164,11 @@
   </entry>
   
   <entry>
-    <title>史莱姆的信</title>
-    <link href="http://iwarm.space/Slimeletter.html"/>
-    <id>http://iwarm.space/Slimeletter.html</id>
+    <title>史莱姆的日记</title>
+    <link href="http://iwarm.space/Slimediary.html"/>
+    <id>http://iwarm.space/Slimediary.html</id>
     <published>2020-03-16T12:10:40.000Z</published>
-    <updated>2020-03-17T08:54:39.023Z</updated>
+    <updated>2020-03-18T03:22:20.666Z</updated>
     
     <summary type="html">
     
@@ -180,7 +180,7 @@
     </summary>
     
     
-      <category term="Letter" scheme="http://iwarm.space/categories/Letter/"/>
+      <category term="Diary" scheme="http://iwarm.space/categories/Diary/"/>
     
     
       <category term="Forwarm" scheme="http://iwarm.space/tags/Forwarm/"/>
